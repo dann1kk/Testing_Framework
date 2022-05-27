@@ -1,0 +1,49 @@
+2022-05-24 17:21:36,438 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:21:43,413 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:21:44,782 : [NonParallelWorker] INFO CalendarSteps- Clicked on today's box!
+2022-05-24 17:21:45,782 : [NonParallelWorker] INFO CalendarSteps- Clicked leaves!
+2022-05-24 17:21:46,199 : [NonParallelWorker] INFO CalendarSteps- Clicked Type category!
+2022-05-24 17:21:46,452 : [NonParallelWorker] INFO CalendarSteps- Chosen type category!
+2022-05-24 17:21:46,778 : [NonParallelWorker] INFO CalendarSteps- Clicked ok button!
+2022-05-24 17:21:47,137 : [NonParallelWorker] INFO CalendarSteps- Pop Up of successfully deleted hours displayed!
+2022-05-24 17:21:47,386 : [NonParallelWorker] INFO CalendarSteps- Absence saved in calendar!
+2022-05-24 17:22:01,479 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:22:06,085 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:22:07,445 : [NonParallelWorker] INFO CalendarSteps- Clicked on today's box!
+2022-05-24 17:22:07,730 : [NonParallelWorker] INFO CalendarSteps- Clicked leaves!
+2022-05-24 17:22:08,326 : [NonParallelWorker] INFO CalendarSteps- Clicked Type category!
+2022-05-24 17:22:08,575 : [NonParallelWorker] INFO CalendarSteps- Chosen new type category!
+2022-05-24 17:22:08,915 : [NonParallelWorker] INFO CalendarSteps- Clicked end date field!
+2022-05-24 17:22:09,201 : [NonParallelWorker] INFO CalendarSteps- Chosen end date!
+2022-05-24 17:22:09,466 : [NonParallelWorker] INFO CalendarSteps- Clicked ok button!
+2022-05-24 17:22:09,508 : [NonParallelWorker] INFO CalendarSteps- Warning message displayed!
+2022-05-24 17:22:23,913 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:22:29,706 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:22:30,972 : [NonParallelWorker] INFO CalendarSteps- Clicked on today's box!
+2022-05-24 17:22:31,992 : [NonParallelWorker] INFO CalendarSteps- Clicked on project field!
+2022-05-24 17:22:32,340 : [NonParallelWorker] INFO CalendarSteps- Chosen project!
+2022-05-24 17:22:32,710 : [NonParallelWorker] INFO CalendarSteps- Clicked role field!
+2022-05-24 17:22:33,093 : [NonParallelWorker] INFO CalendarSteps- Chosen role!
+2022-05-24 17:22:33,345 : [NonParallelWorker] INFO CalendarSteps- Clicked approve button!
+2022-05-24 17:22:33,563 : [NonParallelWorker] INFO CalendarSteps- Pop Up of successfully added hours displayed!
+2022-05-24 17:22:33,860 : [NonParallelWorker] INFO CalendarSteps- Working hours saved!
+2022-05-24 17:22:47,689 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:22:53,357 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:22:55,076 : [NonParallelWorker] INFO CalendarSteps- Clicked on today's box!
+2022-05-24 17:22:55,792 : [NonParallelWorker] INFO CalendarSteps- Clicked approve button!
+2022-05-24 17:22:55,856 : [NonParallelWorker] INFO CalendarSteps- Warning message displayed!
+2022-05-24 17:23:09,905 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:23:15,097 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:23:16,400 : [NonParallelWorker] INFO CalendarSteps- Clicked on absence box!
+2022-05-24 17:23:17,319 : [NonParallelWorker] INFO CalendarSteps- Clicked Type category!
+2022-05-24 17:23:17,599 : [NonParallelWorker] INFO CalendarSteps- Changed type category!
+2022-05-24 17:23:17,827 : [NonParallelWorker] INFO CalendarSteps- Clicked ok button!
+2022-05-24 17:23:18,288 : [NonParallelWorker] INFO CalendarSteps- Pop Up of successfully updated absence displayed!
+2022-05-24 17:23:18,513 : [NonParallelWorker] INFO CalendarSteps- Updated Absence Saved!
+2022-05-24 17:23:33,619 : [NonParallelWorker] INFO CalendarSteps- Successfully logged in!
+2022-05-24 17:23:39,471 : [NonParallelWorker] INFO CalendarSteps- Successfully accessed my personal calendar!
+2022-05-24 17:23:40,853 : [NonParallelWorker] INFO CalendarSteps- Clicked on working hours!
+2022-05-24 17:23:42,194 : [NonParallelWorker] INFO CalendarSteps- Increased working hours!
+2022-05-24 17:23:42,436 : [NonParallelWorker] INFO CalendarSteps- Clicked ok button!
+2022-05-24 17:23:42,694 : [NonParallelWorker] INFO CalendarSteps- Pop Up of successfully updated hours displayed!
+2022-05-24 17:23:43,143 : [NonParallelWorker] INFO CalendarSteps- Updated working hours saved!
